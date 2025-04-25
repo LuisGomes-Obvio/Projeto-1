@@ -10,7 +10,7 @@ se eu fizer isto o que acontece?
 The Tireless Lil Ant
 Um jogo 2D criado com MonoGame, onde um tamanduá persegue uma formiga determinada que tenta recolher folhas pela floresta. O jogo é um exemplo de inteligência artificial baseada em máquinas de estados, animações em tempo real e interação com o jogador.
 
-'''c#
+```csharp
 
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
@@ -65,4 +65,4 @@ namespace README
     }
 }
 
-'''
+```
