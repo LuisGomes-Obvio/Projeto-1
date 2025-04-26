@@ -11,3 +11,5 @@ se eu fizer isto o que acontece?
 - MonoGame SDK
 - Visual Studio 2022 (ou superior)
 - .NET Framework/Core
+
+Repositório do jogo: https://github.com/itivadar/LilAnt-Game
