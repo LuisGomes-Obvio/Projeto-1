@@ -8,4 +8,6 @@ se eu fizer isto o que acontece?
 
  
 
-é
+- MonoGame SDK
+- Visual Studio 2022 (ou superior)
+- .NET Framework/Core
