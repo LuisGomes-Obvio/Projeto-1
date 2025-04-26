@@ -122,5 +122,5 @@ namespace TheTirelessLilAnt.Components
 }
 
 ```
-
+</details>
 lalalala
