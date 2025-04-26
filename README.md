@@ -13,3 +13,7 @@ se eu fizer isto o que acontece?
 - .NET Framework/Core
 
 Repositório do jogo: https://github.com/itivadar/LilAnt-Game
+
+- Luís Gomes - 31473
+- Samuel Fernandes - 31470
+- David Barbosa - 31461
