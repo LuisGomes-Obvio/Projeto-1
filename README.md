@@ -17,3 +17,6 @@ Repositório do jogo: https://github.com/itivadar/LilAnt-Game
 - Luís Gomes - 31473
 - Samuel Fernandes - 31470
 - David Barbosa - 31461
+
+```scharp   Vector2 Origin { get; set; } ```
+
